@@ -3,3 +3,4 @@
 2. Developed a two-player Pong game using C++ and console graphics, implementing game logic, collision detection, and user input handling, resulting in an interactive gaming experience.
 3. Developed a console-based Snake game using C++ and implemented features such as player movement, collision detection, score tracking, and dynamic tail growth.
    (a=left, d=right, w=up, s=down)
+4. Developed a virtual ATM machine program in C++ with features including secure user authentication, account management, and transaction handling, utilizing Object-Oriented Programming principles.
